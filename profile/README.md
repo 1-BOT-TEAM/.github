@@ -16,3 +16,4 @@ Libbrary :
 - Discord.Net
 - Discordia
 - DIscord.py
+- Pycord
