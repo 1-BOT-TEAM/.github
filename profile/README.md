@@ -11,13 +11,4 @@ We create using :
 ![Lua](https://img.shields.io/badge/-Lua-2C2D72?logo=lua&logoColor=white&logoWidth=30)
 ![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white&logoWidth=30)
 
-Libbrary :
-- Discord.JS
-- Eris
-- Discord.Net
-- Discordia
-- DIscord.py
-- Pycord
-
-
 [Our Discord](https://discord.gg/MStx3eM5dt)
