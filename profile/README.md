@@ -4,11 +4,12 @@
 
 
 We create using :
-- Typescript/Javascript
-- Python
-- .NET
-- Lua
-- Go
+
+![Typescript](https://img.shields.io/badge/-Typescript-3178c6?logo=typescript&logoColor=white&logoWidth=30)
+![Python](https://img.shields.io/badge/-Python-ffde57?logo=python&logoColor=white&logoWidth=30)
+![.NET](https://img.shields.io/badge/-.NET-512BD4?logo=.net&logoColor=white&logoWidth=30)
+![Lua](https://img.shields.io/badge/-Lua-2C2D72?logo=lua&logoColor=white&logoWidth=30)
+![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white&logoWidth=30)
 
 Libbrary :
 - Discord.JS
