@@ -19,4 +19,4 @@ Libbrary :
 - Pycord
 
 
-(Discord)[https://discord.gg/MStx3eM5dt]
+[Discord](https://discord.gg/MStx3eM5dt)
