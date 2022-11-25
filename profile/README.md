@@ -17,3 +17,6 @@ Libbrary :
 - Discordia
 - DIscord.py
 - Pycord
+
+
+(Discord)[https://discord.gg/MStx3eM5dt]
